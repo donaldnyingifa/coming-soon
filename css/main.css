@@ -58,7 +58,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #FFFFFF;
+	background: #ffda6b;
 	font-family: 'Jomolhari', serif;
 	font-size: 1.6rem;
 	line-height: 3rem;
@@ -865,7 +865,7 @@ header .social-links ul li:last-child {
 
 header .social-links ul li a,
 header .social-links ul li a:visited {
-	color: #ffda6b;
+	color: #000;
 }
 
 header .social-links ul li a:hover,
@@ -1095,7 +1095,7 @@ header .social-links ul li a:focus {
 }
 .scroll-icon .end-top {
 	content: "";
-	background-color: #ffda6b;
+	background-color: #fff;
 	width: 7px;
 	height: 7px;
 	border-radius: 50%;
@@ -1109,7 +1109,7 @@ header .social-links ul li a:focus {
 	position: absolute;
 	height: 38px;
 	width: 25px;
-	border: 3px solid #ffda6b;
+	border: 3px solid #fff;
 	border-radius: 12px;
 	right: -13px;
 	top: 10px;
@@ -1814,14 +1814,14 @@ footer .back-to-top {
 
 footer .back-to-top a {
 	display: block;
-	background: #ffda6b;
+	background: #f8c733;
 	padding: 1.2rem 3rem 1.5rem;
 	color: #FFFFFF;
 }
 
 footer .back-to-top a:hover,
 footer .back-to-top a:focus {
-	background: #151515;
+	background: #ffda6b;
 }
 
 footer .back-to-top a i {

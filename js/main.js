@@ -39,7 +39,10 @@
     	slides: [
        	{ src: "images/slides/01.png" },
         	{ src: "images/slides/02.png" },
-        	{ src: "images/slides/03.jpeg" }
+			{ src: "images/slides/03.jpeg" },
+			{ src: "images/slides/04.png" },
+			{ src: "images/slides/05.png" },
+			{ src: "images/slides/06.png" }
     	]
 	});
 
