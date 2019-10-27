@@ -58,11 +58,17 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #ffda6b;
+	/* background: #ffda6b; */
+	/* background: #0c0c0c; */
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 1.6rem;
 	line-height: 3rem;
-	color: #333333;
+	/* color: #333333; */
+	color: #ffda6b
+}
+
+.bi {
+	background-image: url('../images/slides/bc.JPG');
 }
 
 /* ------------------------------------------------------------------- 
@@ -86,7 +92,7 @@ a:hover, a:focus {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	font-family: 'Fjalla One', sans-serif;
-	color: #151515;
+	color: #ffda6b;
 	font-style: normal;
 	text-rendering: optimizeLegibility;
 	margin-bottom: 2.1rem;

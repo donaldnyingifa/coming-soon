@@ -37,12 +37,12 @@
 		transitionDuration: 2500,
 		delay: 10000,
     	slides: [
-       	{ src: "images/slides/01.png" },
-        	{ src: "images/slides/02.png" },
-			{ src: "images/slides/03.jpeg" },
-			{ src: "images/slides/04.png" },
-			{ src: "images/slides/05.png" },
-			{ src: "images/slides/06.png" }
+       	{ src: "images/slides/1.png" },
+        	{ src: "images/slides/2.png" },
+			{ src: "images/slides/3.png" },
+			{ src: "images/slides/4.png" },
+			{ src: "images/slides/5.png" },
+			{ src: "images/slides/6.png" }
     	]
 	});
 
