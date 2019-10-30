@@ -72,7 +72,7 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 a, a:visited {
-	color: #057f78;
+	color: #fff;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -1242,6 +1242,11 @@ header .social-links ul li a:focus {
 	.main-content-tablecell h1 {
 		font-size: 2.4rem;
 	}
+}
+
+.ft {
+	color: #fff;
+	text-align: center;
 }
 
 
